@@ -149,7 +149,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - SLEEP
   - RGB BRD
   - RGB BRI
   - ''
@@ -161,7 +161,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
+  - '&studio_unlock'
   - ''
   - ''
   - ''
